@@ -1,7 +1,8 @@
 {
-  "name": "calculator",
+  "name": "numeral-systems",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kochcoding.github.io/numeral-systems",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
