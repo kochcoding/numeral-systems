@@ -1,8 +1,12 @@
 # Convert numbers from different numeral systems into one another
 
-With this project I want to save time for university. I didn't want to convert the numbers by hand anymore but I needed the calcutlating way.
-So after programming this page I am pretty good at transforming numbers into different numeral systems and I don't spend much time anymore doing this
-in way to many exercises
+With this project I wanted to save time for university. I didn't want to convert the numbers between different numeral
+systems manually anymore. 
+This tool is actually very helpful, so I decided to open source it.
+
+## Demo
+You can find the tool up and running here:
+[https://kochcoding.github.io/numeral-systems/](https://kochcoding.github.io/numeral-systems/)
 
 ## Available Scripts
 
